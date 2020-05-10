@@ -7,6 +7,8 @@ Lista de desafios:
 
 [Desafio 2](https://github.com/edubarth/Codenation/blob/master/desafio_2.ipynb) -> Conhecendo sua base de consumidores: qual estado possui a melhor pontuação de crédito?
 
-[Desafio 3](https://github.com/edubarth/Codenation/blob/master/desafio_3.ipynb) -> Funções de probabilidade
+[Desafio 3](https://github.com/edubarth/Codenation/blob/master/desafio_3.ipynb) -> Funções de probabilidade I
+
+[Desafio 4](https://github.com/edubarth/Codenation/blob/master/desafio_4.ipynb) -> Funções de probabilidade II
 
 
