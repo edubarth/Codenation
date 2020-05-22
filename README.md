@@ -11,4 +11,6 @@ Lista de desafios:
 
 [Desafio 4](https://github.com/edubarth/Codenation/blob/master/desafio_4.ipynb) -> Funções de probabilidade II
 
+[Desafio 5](https://github.com/edubarth/Codenation/blob/master/desafio_5.ipynb) -> Redução de dimensionalidade e seleção de variáveis
+
 
