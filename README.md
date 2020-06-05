@@ -17,6 +17,6 @@ Lista de desafios:
 
 [Desafio 7](https://github.com/edubarth/Codenation/blob/master/desafio_7/desafio_7.ipynb) -> Prever nota de matemática do ENEM
 
-[Desafio 7](https://github.com/edubarth/Codenation/blob/master/desafio_8/desafio_8.ipynb) -> Descubra quem fez o ENEM 2016 apenas para treino
+[Desafio 8](https://github.com/edubarth/Codenation/blob/master/desafio_8/desafio_8.ipynb) -> Descubra quem fez o ENEM 2016 apenas para treino
 
 
